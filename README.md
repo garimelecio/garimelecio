@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @garimelecio
+- 📆 I joined on Aug 6, 2013
 - 👀 I’m interested in networking, programming and technology in general.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
